@@ -1,0 +1,6 @@
+name = "Acme-TouhouProject"
+# badges = ["travis"]
+authority="cpan:ANATOFUZ"
+
+module_maker="ModuleBuildTiny"
+

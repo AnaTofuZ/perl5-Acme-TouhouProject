@@ -13,10 +13,10 @@ use Class::Accessor::Lite (
 );
 
 my %charactername = (
-      '霊夢'  => 'reimu',
-      'reimu' => 'reimu',
-    '魔理沙'  => 'marisa',
-    'marisa'  => 'marisa',
+    '霊夢'   => 'reimu',
+    'reimu'  => 'reimu',
+    '魔理沙' => 'marisa',
+    'marisa' => 'marisa',
 );
 
 sub character {
